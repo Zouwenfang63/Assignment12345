@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="news1">健身运动 4种被忽视的健身运动</string>
+    <string name="news11">
+        很多人都喜欢做一些简单、轻松的运动想要达到锻炼的效果，其实效果不明显。反而是那些不被大家喜欢，忽视的运动，是健身最好的选择。那么到底有哪些健身运动最适合锻炼呢?
+健身运动\n
+4种易被忽视而又需要的健身\n
+1.平板支撑\n
+平板支撑能锻炼核心肌肉群。在健身间隙可做3次平板支撑，每次30秒。具体动作：俯卧，两肘打开与肩同宽，肘关节支撑于地面，上臂与躯干尽量保持90°。\n
+两脚尖并在一起减少支撑面积。颈部自然伸直，眼睛看向前下方，挺胸，头、肩、髋和下肢等部位保持在同一平面，使脊椎骨处于自然生理弯曲的形态。\n
+2.脚踝训练\n
+脚踝是男性锻炼最少的部位之一，脚踝灵活性不足会导致身体缺乏稳定性，使脊椎更易受损。具体动作：双手前伸扶墙，左脚尖抵墙，右腿后伸;\n
+身体前倾，尽量使左膝靠近墙壁，坚持10秒，两侧交替进行，每侧3次。</string>
+    <string name="news12">3.侧弓箭步\n
+大多数人缺乏侧向运动。侧弓箭步有助于增强身体两侧肌肉，锻炼髋关节灵活性，以及臀部周围肌肉力量。
+具体动作：站立，两脚打开与肩同宽;左脚向左侧伸出，同时右腿屈膝，身体下蹲，重复10次，然后换另一侧进行。
+4.箭步蹲
+这一动作难度最大，因此很多人避而远之。具体动作：背对凳子站立，距凳子1~2步远，屈左膝使左脚脚背搭于凳子上;
+身体挺直，右膝弯曲使身体下降，直到左膝几乎触地，然后站直，重复8~12次，再换右腿做。
+上述介绍了四种比较适合锻炼的健身运动，那么其中提到的平板支撑是日常比较常见的，对于平板支撑的锻炼你又了解多少呢?
+平板支撑\n
+平板支撑的锻炼\n
+1、上踏步
+如果那些初级上抬腿对你来说太过easy，那么不妨尝试将踏板垫高，增加难度。
+找一个板凳或是踏步板，在双腿前平放在地上，双膝呈90度或更大角度的弯曲，先是右脚踏上踏板，再换左腿，要注意双脚要完全踩在板凳上。
+之后右脚先下，接着左脚，两脚回到地面，回到原来的姿势，重复20次，再换左脚先踏上。一系列动作重复20次。
+2、屈膝侧弓步
+如果你是首次尝试，那么先不要使哑铃，直到你完全适应了这个动作。
+右手持5-10磅的哑铃，向左侧弓步，让拿哑铃的手靠近左脚脚踝，尽可能的压低身体，脚尖朝向前方，右膝盖弯曲不要超过90度，右腿轻轻的蹬地。
+左腿迅速往后形成箭步蹲姿势，哑铃向上举过头顶，保持身体的直挺、绷紧，双腿都保持向前，完成这一步后，从屈膝变成侧弓步。重复以上动作15次，之后换边，一共做3组。
+
+    </string>
+    <string name="news13">3、平板支撑后踢腿
+肘部着地做平板支撑起势，可以锻炼到腹部和臀部肌肉。
+肘部垂直肩膀着地做平板支撑，腹部向内收紧，保持盆骨平行，不要下垂或是突出，抬起左腿，膝盖向上弯，脚板朝向天花板，盆骨不要扭动，保持平行。
+在运动过程中，要保持腰部和盆骨不动，左脚向上抬，动作幅度不需要太大，专注在臀部和脚筋的支撑上即可。重复8-10次，然后换腿，每条腿2组。
+4、平板支撑提腿
+此动作可以运动到臀部和大腿肌肉群，需要借助健身球。
+首先小腹压在健身球上，用双手支撑地面行走，慢慢把球移动到小腿下面，双手撑在肩膀下方，手肘向内，用力收腹，保证脊椎垂直身体稳定。
+左腿向上抬，再缓缓的收回，但不要碰到球，保持盆骨的平衡，重复10-12次抬腿，完成一侧的3组后，换右腿。
+总结：运动健身并不是想要图轻松、简单，最起码是要达到一定的锻炼效果。希望推荐的几种健身锻炼方法，能够帮助大家锻炼身体、强健骨骼
+
+    </string>
+    <string name="two">由于天气寒冷的原因，很多人放弃的运动健身，然而并不知道的是，冬季同样也是一个非常好的减脂减肥季节。\n
+为什么这么说呢？下面就由小编一一道来！
+    </string>
+    <string name="five">谁说减肥只有夏天效果才好？\n
+冬天能够让你更快的燃脂减肥！在这个冬天动起来，让肥胖远离你！</string>
+    <string name="four">当然原因也不仅仅是上面那个而已。\n
+在冬季，由于人的本能，身体需要提高温度，这时候就要消耗脂肪来“取暖”。这时候如果进行健身运动的话，那么减脂的效果会非常棒！</string>
+    <string name="three">由于天气寒冷，在每次的健身运动开始前，都需要花费更多的时间来进行热身，从而间接的起到了运动量增多，而脂肪得以燃烧的目的。</string>
+    <string name="one">在寒冷的冬天，人们往往变得越来越懒惰，特别是运动这方面，相比夏季很多来说，能够坚持下去的人，少之又少。冬天也是一个容易堆积脂肪的时期，越是这个时候不运动，肥胖就离你越来越近。</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="login">Login</string>
+    <string name="other">QQ login</string>
+    <string name="register">Register</string>
+    <string name="username">username</string>
+    <string name="vedio1">励志健身视频\n</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="Duanru">姓名:段茹\n性别:女\n教练工作号:18126268\n教授项目:平板支撑\n工作时间：2年</string>
+    <string name="Zhangsan">姓名:张三\n性别:男\n教练工作号:00000001\n教授项目:腹肌训练\n工作时间：3年</string>
+    <string name="Zouwenfang">姓名:邹文芳\n性别:女\n教练工作号:18126367\n教授项目:腹部健身操\n工作时间：4年</string>
+    <string name="title_activity_scrolling">健身励志</string>
+
+    <string name="large_text">
+        "不健身，你根本理解不了这群花钱找罪受的疯子.\n\n"
+        "爱健身的人是孤独的！\n\n"
+        "他们花钱吃苦被认为是奇葩。\n\n"
+        "他们克制饮食被认为是无趣。\n\n"
+        "他们执着狂热被认为是极端。\n\n"
+        "或许\n"
+        "爱健身的人并不是你所看到的样子....\n\n"
+        "01\n\n"
+        "爱健身的人并不是比别人时间多\n"
+        "他们一样也有辛苦的工作\n"
+        "一样也有学生党\n"
+        "只是他们想用宝贵的时间来充实和改变自己\n"
+        "而不是把所有空闲时间用在电脑和手机上\n\n"
+        "02\n\n"
+        "爱健身的人并不是比别人有钱\n"
+        "他们办健身卡、买蛋白粉、买装备的钱一样是辛劳所得\n"
+        "有的学生党甚至是生活费\n"
+        "而他们花这些钱只是希望换来钱买不到的东西\n"
+        "马甲线，腹肌和强健的体魄\n\n"
+        "03\n\n"
+        "爱健身的人并不是没有味觉\n"
+        "他们一样也觉得饮料比白开水好喝\n"
+        "一样也觉得烧烤和油炸是美味\n"
+        "而他们看似脑残的舍弃了很多美食\n"
+        "只是为了不在最好的年纪变成胖子\n\n"
+        "04\n\n"
+        "爱健身的人并不是傻\n"
+        "体重增加时他开心的笑了\n"
+        "其实他在增肌\n"
+        "体重减少时他也笑了\n"
+        "其实他在减脂\n"
+        "外行见到他们一会增重一会减重\n"
+        "总是不理解的笑他们傻\n"
+        "但这些永远只有自己清楚\n\n"
+        "05\n\n"
+        "爱健身的人并不是精力旺盛\n"
+        "他们一样承受着各种压力\n"
+        "一样会被繁重的工作和学习困扰\n"
+        "而他们一下班就冲去健身房\n"
+        "不是因为不累\n"
+        "只是他们想用另一种方式发泄和放松自己\n\n"
+        "06\n\n"
+        "爱健身的人并不是运动员\n"
+        "他们日复一日的锻炼\n"
+        "拼命玩着杠铃\n"
+        "面对身体的各种酸痛甚至是受伤的风险\n"
+        "他们并不是想变成运动员\n"
+        "只是他们都很偏执\n"
+        "一旦爱上一件事\n"
+        "他们就会尽全力做好\n\n"
+        "07\n\n"
+        "爱健身的人并不是天生能吃苦\n"
+        "在别人为了一点距离打车的时候而他们在跑步\n"
+        "在别人吹着空调的时候他们在挥洒汗水\n"
+        "后来手上脚上甚至磨出了茧子\n"
+        "其实，他们从小也受着父母的宠爱\n"
+        "健身不是自找苦吃\n"
+        "只是他们更懂得疼爱自己的身体\n"
+        "更愿意去寻找完美的自己\n\n"
+        "健身路上，每一个人都是孤独的，\n"
+        "你可以选择忍受，也可以选择离开。\n"
+        "但每一位留下来的人，\n"
+        "都将成为战胜自己的勇士，\n"
+        "而他们收获的也是那些最宝贵的东西。\n\n"
+        "比如最漂亮的外衣——身材\n\n"
+        "比如最宝贵的财富——健康\n\n"
+        "比如无价的品质——坚毅\n\n"
+        "比如最高贵的气质——自信\n\n"
+        "健身是一场孤独的旅行，\n"
+        "它不需要接受任何人的认同，\n"
+        "其中滋味，只需自己能懂\n\n"
+        "所以赶紧加入健身俱乐部去实现自身的价值\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">cancle</string>
+    <string name="phone_numble">numble(phone)</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="title_activity_register">Sign in</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">邹文芳</string>
+    <string name="nav_header_subtitle">18126367@bjtu.edu.cn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_choice">ChoiceActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_user2">User2Activity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
